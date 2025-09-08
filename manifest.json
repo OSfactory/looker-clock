@@ -1,0 +1,10 @@
+{
+  "name": "Realtime Clock",
+  "description": "Visar en realtidsklocka i dashboarden",
+  "resources": [
+    {
+      "type": "js",
+      "url": "index.js"
+    }
+  ]
+}
